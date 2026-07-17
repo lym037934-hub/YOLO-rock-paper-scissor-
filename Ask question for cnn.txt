@@ -1,0 +1,15 @@
+Ask question for cnn 
+
+================================================================================================
+Layer 
+ - Convolutional layer
+ - Pooling layer
+ - Fully-connected (FC) layer
+
+================================================================================================
+
+Machine learning 
+ - not quite synonymous. In short: all machine learning is AI, but not all AI is machine learning.
+
+
+================================================================================================

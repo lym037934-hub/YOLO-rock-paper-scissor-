@@ -1,0 +1,18 @@
+﻿venv/
+yolo11env/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.onnx
+runs/
+weights/
+dataset/
+datasets/
+DATA SET/
+data/
+*.zip
+*.ipynb_checkpoints
+.DS_Store

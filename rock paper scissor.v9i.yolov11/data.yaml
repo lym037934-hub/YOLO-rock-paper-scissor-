@@ -1,0 +1,13 @@
+train: D:/yolov11/rock paper scissor.v9i.yolov11/train/images
+val: D:/yolov11/rock paper scissor.v9i.yolov11/valid/images
+test: D:/yolov11/rock paper scissor.v9i.yolov11/test/images
+
+nc: 3
+names: ["Paper", "Rock", "Scissors"]
+
+roboflow:
+  workspace: mengly-vw3md
+  project: rock-paper-scissor-emkp2-rnzs5
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mengly-vw3md/rock-paper-scissor-emkp2-rnzs5/dataset/9
